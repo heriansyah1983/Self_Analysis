@@ -1,0 +1,6 @@
+{
+  "name": "Guru Self-Analysis & Improvement Dashboard",
+  "description": "Instrumen refleksi profesional, analisis kompetensi 10 dimensi guru, rencana perbaikan, dan pendampingan pengawas sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
